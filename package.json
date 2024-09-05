@@ -54,7 +54,7 @@
     "bulma": "^0.7.1",
     "clipboard-copy": "^2.0.0",
     "dayjs": "^1.6.4",
-    "electron-updater": "^2.21.10",
+    "electron-updater": "^6.3.4",
     "element-ui": "^2.3.8",
     "eosforcejs": "^1.0.5",
     "eosjs": "^16.0.9",
